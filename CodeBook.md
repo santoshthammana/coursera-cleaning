@@ -42,13 +42,21 @@ For each record it is provided:
    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
    The following files were used:
+
    train/X_train.txt
+
    train/y_train.txt
+
    train/subject_train.txt
+
    test/X_test.txt
+
    test/y_test.txt
+
    test/subject_test.txt
+
    activity_labels.txt
+
 
    The first 3 files consist of training data.  The remaining 3 files consist of test data.
    The X_train.txt and X_test.txt files consist of the 561 features collected.
